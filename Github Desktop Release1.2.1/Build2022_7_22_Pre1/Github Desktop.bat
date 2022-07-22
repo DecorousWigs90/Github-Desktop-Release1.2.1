@@ -1,0 +1,3 @@
+msg * you will start Github,Press Any key continue......
+PAUSE>NUL
+start Github.bat
